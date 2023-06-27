@@ -24,7 +24,7 @@
             <td>:</td>
             <td>
               <div class="input-field">
-                <input value="<?php echo $namaPemilik; ?>" readonly />
+                <label value="<?php echo $namaPemilik; ?>" readonly>
               </div>
             </td>
           </tr>
@@ -34,7 +34,7 @@
             <td>:</td>
             <td>
               <div class="input-field">
-                <input value="<?php echo $IDTenant; ?>" readonly />
+                <label value="<?php echo $IDTenant; ?>" readonly>
               </div>
             </td>
           </tr>
@@ -43,7 +43,7 @@
             <td>:</td>
             <td>
               <div class="input-field">
-                <input value="<?php echo $IDPersewaan; ?>" readonly />
+                <label value="<?php echo $IDPersewaan; ?>" readonly>
               </div>
             </td>
           </tr>
