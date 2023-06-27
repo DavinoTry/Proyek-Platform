@@ -31,7 +31,6 @@
           <tr>
             <td>Id Tenant</td>
             <td>:</td>
-            <td>:</td>
             <td>
               <div class="input-field">
                 <label value="<?php echo $IDTenant; ?>" readonly>
